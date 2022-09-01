@@ -1,0 +1,15 @@
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/bin/Debug/net6.0/Example008_IntoMethod
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/bin/Debug/net6.0/Example008_IntoMethod.deps.json
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/bin/Debug/net6.0/Example008_IntoMethod.runtimeconfig.json
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/bin/Debug/net6.0/Example008_IntoMethod.dll
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/bin/Debug/net6.0/Example008_IntoMethod.pdb
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/obj/Debug/net6.0/Example008_IntoMethod.csproj.AssemblyReference.cache
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/obj/Debug/net6.0/Example008_IntoMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/obj/Debug/net6.0/Example008_IntoMethod.AssemblyInfoInputs.cache
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/obj/Debug/net6.0/Example008_IntoMethod.AssemblyInfo.cs
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/obj/Debug/net6.0/Example008_IntoMethod.csproj.CoreCompileInputs.cache
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/obj/Debug/net6.0/Example008_IntoMethod.dll
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/obj/Debug/net6.0/refint/Example008_IntoMethod.dll
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/obj/Debug/net6.0/Example008_IntoMethod.pdb
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/obj/Debug/net6.0/Example008_IntoMethod.genruntimeconfig.cache
+/Users/aleksandrfilimonov/Desktop/examples/Example008_IntoMethod/obj/Debug/net6.0/ref/Example008_IntoMethod.dll
