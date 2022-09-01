@@ -1,0 +1,15 @@
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.deps.json
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.runtimeconfig.json
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.dll
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.pdb
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.dll
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net6.0/refint/Example011_ArrayLibrary.dll
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.pdb
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.genruntimeconfig.cache
+/Users/aleksandrfilimonov/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net6.0/ref/Example011_ArrayLibrary.dll
